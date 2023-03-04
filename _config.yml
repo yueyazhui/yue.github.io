@@ -329,7 +329,7 @@ defaults:
             - | # 页面优化 baidu-site-verification：https://ziyuan.baidu.com/site/index#/
               <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
               <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-              <meta name="baidu-site-verification" content="codeva-qSgTOKqr36" />
+              <meta name="baidu-site-verification" content="codeva-AgRk8Vbh5y" />
               <link rel="alternate" href="/feed.xml" title="RSS" type="application/rss+xml"/>
             - | # 网站小图标
               <link rel="apple-touch-icon-precomposed" href="https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/avatar_202303041411350.jpg"/>
@@ -750,7 +750,7 @@ readme_index: # 缺失 index.md 和 index.html 时，使用 README.md 代替
 
 webmaster_verifications: # https://jekyll.github.io/jekyll-seo-tag/usage
   google: _h2eSafHEmQmiyjZHZPweKu4RmwxL9OdmWrX59tn97w # https://search.google.com/search-console/welcome
-  baidu: codeva-qSgTOKqr36 # https://ziyuan.baidu.com/site/index#/
+  baidu: codeva-AgRk8Vbh5y # https://ziyuan.baidu.com/site/index#/
 
 permalink: pretty
 timezone: Asia/Shanghai # 解决 githubpage 显示时间不正确的问题，参考：https://www.iana.org/time-zones
