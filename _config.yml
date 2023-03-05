@@ -1,5 +1,9 @@
 # 站点标题
 title: 月牙坠
+# 作者
+author: yueyazhui
+# 邮箱
+email: 15235032479@163.com
 # 头像后面的信息（HTML格式）
 description: | 
   <style>
@@ -25,8 +29,9 @@ description: |
       background-repeat: no-repeat;
     }
   </style>
+  <br/>
   知行合一<br/>
-  <br/><br/>
+  <br/>
   月牙坠<br/>
   yueyazhui<br/>
   <a href="mailto:15235032479@163.com">
