@@ -10,7 +10,7 @@
   - **Taiyuan, Shanxi, China**
 - Site
   - **<https://yueyazhui.top>**
-- [Resume](https://yueyazhui.top/assets/PDF/resume/index.pdf)
+- [Resume](https://yueyazhui.top/assets/pdf/resume/index.pdf)
 
 <!-- .slide vertical=true -->
 
