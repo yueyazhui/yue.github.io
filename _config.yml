@@ -80,7 +80,7 @@ defaults:
             disable: false # 是否禁用 sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gitee.com/yueyazhui/pic-go/raw/master/img/avatar_202303041355803.jpg # 头像的地址
+              img: https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/avatar_202303041411350.jpg # 头像的地址
             nav: # 导航列表
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /
@@ -337,8 +337,8 @@ defaults:
               <meta name="baidu-site-verification" content="codeva-AgRk8Vbh5y" />
               <link rel="alternate" href="/feed.xml" title="RSS" type="application/rss+xml"/>
             - | # 网站小图标
-              <link rel="apple-touch-icon-precomposed" href="https://gitee.com/yueyazhui/pic-go/raw/master/img/avatar_202303041355803.jpg"/>
-              <link rel="shortcut icon" href="https://gitee.com/yueyazhui/pic-go/raw/master/img/avatar_202303041355803.jpg"/>
+              <link rel="apple-touch-icon-precomposed" href="https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/avatar_202303041411350.jpg"/>
+              <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/avatar_202303041411350.jpg"/>
             - | # lanyon 页面样式
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/poole/lanyon@v1.1.0/public/css/poole.min.css,gh/poole/lanyon@v1.1.0/public/css/lanyon.min.css,gh/poole/lanyon@v1.1.0/public/css/syntax.min.css"/>
             - | # fontawesome 图标
@@ -666,7 +666,7 @@ defaults:
             - | # 配置变量；参考：https://github.com/qr-merger/merger 二维码解码工具：https://www.sojson.com/qr/deqr.html
               <script>
                 var myname = "yueyazhui";
-                var profile = "https://gitee.com/yueyazhui/pic-go/raw/master/img/avatar_202303041355803.jpg";
+                var profile = "https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/avatar_202303041411350.jpg";
                 var usage = "payment";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&a=1&u=1113625008&ac=CAEQsKOCkwQYy-uMoAZCIDAxMjI3MDNjY2Y5NzdjNzRlM2RhNjFjNmYzYzliMzZj_xxx_sign&n=%E6%9C%88%E7%89%99%E5%9D%A0&f=wallet";
                 var wechat = "wxp://f2f00k4lnisvETysxuqgcXDYeLP3s3TlkZAS6hy2S8DWpFgIauULhz_KSK_lPwV53sTe";
