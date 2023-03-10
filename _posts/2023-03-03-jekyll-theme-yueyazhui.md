@@ -14,14 +14,16 @@ tags: [jekyll]
 
 1. Mybase
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/Jekyll_202303091858811.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/Jekyll_202303101325804.png)
+
+   ![](https://cdn.jsdelivr.net/gh/yueyazhui/yueyazhui.github.io@main/assets/image/screenshot/Jekyll_202303101325804.png)
 
 2. Typora + PicGo + GitHub（推荐）
 
 3. 语雀（推荐）
 
-   ![](https://cdn.jsdelivr.net/gh/yueyazhui/pic-go@main/img/Jekyll_202303091859935.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/Jekyll_202303101327562.png)
 
-   ![](https://raw.githubusercontent.com/yueyazhui/pic-go/main/img/Jekyll_202303091901132.png)
+   ![](https://cdn.jsdelivr.net/gh/yueyazhui/yueyazhui.github.io@main/assets/image/screenshot/Jekyll_202303101327562.png)
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/Jekyll_202303091903069.png)
+4. 
