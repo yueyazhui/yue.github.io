@@ -154,7 +154,7 @@ defaults:
                   }
                 </style>
             append_to_sidebar:
-              - <script defer="defer" src="https://cdn.jsdelivr.net/gh/poole/lanyon@v1.1.0/public/js/script.min.js"></script> # 点击空白处关闭侧边栏
+              # - <script defer="defer" src="https://cdn.jsdelivr.net/gh/poole/lanyon@v1.1.0/public/js/script.min.js"></script> # 点击空白处关闭侧边栏
               - | # 侧边栏主题色
                 <style>
                   #sidebar-checkbox:checked ~ .sidebar-toggle,
