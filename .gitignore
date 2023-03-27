@@ -44,3 +44,11 @@ validation-report.json
 vendor
 node_modules
 bower_components
+
+### VS Code ###
+.vscode/
+
+### MacOS ###
+.DS_Store
+**/.DS_Store
+.DS_Store?
