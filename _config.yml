@@ -48,8 +48,8 @@ description: |
   </a>
   <br/>
 # 域名，例如：https://yueyazhui.github.io
-# url: https://yueyazhui.top
-url: http://localhost:80
+url: https://yueyazhui.top
+# url: http://localhost:80
 # 博客目录的基础路径；配置后，需要在下面配置的所有链接前加上基础路径，如：`/assets` --> `/your_baseurl/assets`
 # 注意：结尾不要有'/'
 baseurl: ""
