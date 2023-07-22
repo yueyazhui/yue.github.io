@@ -88,7 +88,7 @@ httpSecurity
 
 UReport2 报表的访问地址：http://localhost:11111/ureport/designer（小编的端口为：11111）
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307221208951.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307221208951.png)
 
 #### 前端
 
@@ -105,7 +105,7 @@ UReport2 报表的访问地址：http://localhost:11111/ureport/designer（小�
 }
 ```
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307221138289.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307221138289.png)
 
 
 在 views 目录下添加 ureport/designer/index.vue 文件
@@ -144,19 +144,19 @@ export default {
 
 运行若依管理系统，依次点击系统管理/菜单管理，新增目录
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307221159956.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307221159956.png)
 
 在当前目录下新增菜单
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307221203002.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307221203002.png)
 
 重新登录
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307221205010.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307221205010.png)
 
 ### 配置
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222135345.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222135345.png)
 
 config.properties
 
@@ -219,39 +219,39 @@ public class RuoYiApplication
 
 启动项目，添加数据源（三种方式）
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222141031.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222141031.png)
 
 1. 直连
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222147163.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222147163.png)
 
 2. Spring Bean
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222148086.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222148086.png)
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222150527.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222150527.png)
 
 3. 内置数据源
 
-   ![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222151689.png)
+   ![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222151689.png)
 
 ### 测试
 
 数据：
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222114110.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222114110.png)
 
 设计：
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222118517.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222118517.png)
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222117306.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222117306.png)
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222120477.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222120477.png)
 
 预览：
 
-![](https://gitee.com/yueyazhui/pic-go/raw/master/img/UReport2_202307222121931.png)
+![](https://yueyazhui.top/assets/image/screenshot/UReport2_202307222121931.png)
 
 新增：http://localhost:11111/ureport/designer
 
